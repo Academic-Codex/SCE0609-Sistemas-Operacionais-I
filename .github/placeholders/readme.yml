@@ -1,0 +1,12 @@
+REPO_TAGLINE: Processes • memory • operating systems
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: workload
+SITE_URL: https://academic-codex.github.io/SCE0609-Sistemas-Operacionais-I
+
+BG_1: "#18181B"
+BG_2: "#27272A"
+TEXT_MAIN: "#FAFAFA"
+TEXT_MUTED: "#A1A1AA"
+ACCENT: "#38BDF8"
+CARD_RADIUS: "18"
