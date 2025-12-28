@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SCE0609-Sistemas-Operacionais-I">
-    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:30.842246Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:35:23.556174Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
